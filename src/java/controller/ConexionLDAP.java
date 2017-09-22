@@ -8,7 +8,6 @@ package controller;
 
 import java.util.Hashtable;
 import javax.naming.*;
-import javax.naming.ldap.*;
 import javax.naming.directory.*;
 
 public class ConexionLDAP {
